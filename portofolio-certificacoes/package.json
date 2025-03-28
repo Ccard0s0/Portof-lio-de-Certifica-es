@@ -1,0 +1,23 @@
+{
+  "name": "portofolio-certificacoes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "preact": "^10.26.2",
+    "react-router-dom": "^7.4.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.17",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}
